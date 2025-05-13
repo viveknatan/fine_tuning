@@ -262,6 +262,24 @@
    ]
   },
   {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "TFZ217gCDVTr"
+   },
+   "source": [
+    "## Task 2: Loading Data\n",
+    "\n",
+    "We'll prepare our data - and download our webpages which we'll be using for our data today.\n",
+    "\n",
+    "These webpages are from [Simon Willison's](https://simonwillison.net/) yearly \"AI learnings\".\n",
+    "\n",
+    "- [2023 Blog](https://simonwillison.net/2023/Dec/31/ai-in-2023/)\n",
+    "- [2024 Blog](https://simonwillison.net/2024/Dec/31/llms-in-2024/)\n",
+    "\n",
+    "Let's start by collecting our data into a useful pile!"
+   ]
+  },
+  {
    "cell_type": "code",
    "execution_count": 5,
    "metadata": {
